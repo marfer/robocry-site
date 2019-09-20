@@ -3547,6 +3547,7 @@ input, select, textarea {
 			margin-bottom: -6.5em;
 		}
 
+
 		/*body.team #wrapper > header {*/
 			/*background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg_team.jpg");*/
 		/*}*/
@@ -4134,8 +4135,15 @@ input, select, textarea {
 	margin-bottom: 0;
 	border-radius: 5px;
 }
-
-
+body{
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+		}
 body.team {
 	background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg_team.jpg");
 }
+body.blot_game
+{
+	background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/blot_1.jpg");
+}
+
+
