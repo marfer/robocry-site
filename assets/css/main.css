@@ -3363,16 +3363,17 @@ input, select, textarea {
 		}
 
 			#banner .logo .icon {
-				border-radius: 100%;
+				/*border-radius: 100%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
-				cursor: default;
-				display: inline-block;
-				font-size: 2em;
 				height: 2.25em;
+				cursor: default; */
+				display: inline-block;
+				width: 8.5em;
+				height: 2.25em;
+				font-size: 2em;
 				line-height: 2.25em;
 				text-align: center;
-				width: 2.25em;
-				background-image: url("../../images/lg.png");
+				background-image: url("../../images/negative_logo100x100.png");
 				background-size:cover
 			}
 
